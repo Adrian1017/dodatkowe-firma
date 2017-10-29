@@ -1,0 +1,7 @@
+Nowak Monika K 23 4010.0 22 1 false
+Slodowowy Adam M 23 4000.0 52 2 true
+Sienkiewicz Anna K 13 4500.0 56 3 true
+Ibisz Krzysztof M 34 5500.0 52 3 true
+M*********z Konrad M 13 2000.0 19 0 false
+T*******k Test M 23 2678.0 19 0 false
+ 19 0 false
